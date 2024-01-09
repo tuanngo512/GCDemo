@@ -62,6 +62,4 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
-secretfile filter=git-crypt diff=git-crypt
-*.key filter=git-crypt diff=git-crypt
-secretdir/** filter=git-crypt diff=git-crypt
+secretsfile.cs filter=git-crypt diff=git-crypt
