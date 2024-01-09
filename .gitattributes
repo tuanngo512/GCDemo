@@ -1,3 +1,7 @@
+secretsfile.cs filter=git-crypt diff=git-crypt
+*.key filter=git-crypt diff=git-crypt
+secretdir/** filter=git-crypt diff=git-crypt
+
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
@@ -62,4 +66,3 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
-secretsfile.cs filter=git-crypt diff=git-crypt
