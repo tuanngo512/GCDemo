@@ -62,4 +62,6 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
-GCDemo/secretsfiles.cs filter=git-crypt diff=git-crypt
+GCDemo/secretsfilezero.cs filter=git-crypt-git-crypt-key-zero cddiff=git-crypt-git-crypt-key-zero
+
+GCDemo/secretsfileone.cs filter=git-crypt-git-crypt-key-one cddiff=git-crypt-git-crypt-key-one
