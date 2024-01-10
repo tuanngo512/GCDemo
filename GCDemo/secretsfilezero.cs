@@ -1,7 +1,7 @@
 ﻿namespace GCDemo
 {
-    public class secretsfiles
+    public class secretsfilezero
     {
-        //something to hide
+        //something to hide ver zero
     }
 }
